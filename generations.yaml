@@ -1,3 +1,7 @@
+references:
+  - "https://en.wikipedia.org/wiki/Chevrolet_Volt"
+  - "https://en.wikipedia.org/wiki/Chevrolet_Bolt"
+
 generations:
   - name: "First Generation"
     start_year: 2011
